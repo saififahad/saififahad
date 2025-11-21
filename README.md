@@ -27,10 +27,6 @@ These icons are clean, minimal, and professional — perfect for a recruiter‑f
 
 ## 📌 Featured Projects
 
-### **AI Review Analyzer**
-
-Analyzes customer reviews from platforms like Google & Yelp using AI and sentiment analysis.
-
 ### **Aviator Casino Game (Real‑time)**
 
 A multiplayer, real‑time crash game with socket connections and dynamic animations.
@@ -39,19 +35,8 @@ A multiplayer, real‑time crash game with socket connections and dynamic animat
 
 Complete shopping system with products, cart, orders, authentication & admin panel.
 
-### **Todo App (MERN)**
-
-CRUD operations with JWT authentication.
-
 ---
 
-## 📈 GitHub Stats
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadsaifi609\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadsaifi609\&layout=compact)
-
----
 
 ## 📫 Contact
 
