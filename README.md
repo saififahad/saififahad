@@ -8,8 +8,6 @@ I'm a MERN Stack Developer with 1+ years of professional experience building rel
 
 ## 🚀 Core Skills
 
-### **Tech Stack**
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -20,8 +18,6 @@ I'm a MERN Stack Developer with 1+ years of professional experience building rel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
-
-These icons are clean, minimal, and professional — perfect for a recruiter‑friendly GitHub profile.
 
 ---
 
