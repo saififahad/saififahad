@@ -8,7 +8,7 @@ I'm a MERN Stack Developer with 1+ years of professional experience building rel
 
 ## 🚀 Core Skills
 
-### **Tech Stack (Professional Minimal Icons)**
+### **Tech Stack**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
